@@ -1,2 +1,2 @@
 # eloga
-elecrtonic logistics automation
+electronic logistics automation
